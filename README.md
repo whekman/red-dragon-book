@@ -1,4 +1,1 @@
-
-Exercise solutions for the "red dragon book".
-
-See also http://willemhekman.nl .
+Compiler Design - exercise solutions for the "red dragon book".
